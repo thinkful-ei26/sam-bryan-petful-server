@@ -4,10 +4,10 @@ This is the backend for the BS Petful Client
 
 ### API Endpoints
 
-Routes: /api/:id
---id is either cat/dog
-Get: Get will return the first Object in the pet data queue.
-Delete: Will dequeue the first node from the pet object.
+_Routes: /api/:id
+_--id is either cat/dog
+*Get: Get will return the first Object in the pet data queue.
+*Delete: Will dequeue the first node from the pet object.
 
 ### Tech stack
 
